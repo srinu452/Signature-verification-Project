@@ -1,0 +1,15 @@
+jupyter
+streamlit
+numpy
+pandas
+joblib
+sklearn==0.0
+opencv-python-headless
+matplotlib
+tensorflow
+keras
+
+# python version 3.10.0
+
+# numpy == 1.26.4
+# tensorflow == 2.14.0
